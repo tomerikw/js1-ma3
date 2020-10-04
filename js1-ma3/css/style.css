@@ -1,0 +1,15 @@
+body {
+  background-color: rgb(198, 198, 198);
+}
+
+h1 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.result {
+  color: rgb(99, 33, 9);
+}
+.bigname {
+  font-family: monospace;
+  font-size: 20pt;
+}
